@@ -20,7 +20,7 @@ body{
     width:100%;
     min-width:100vh;
     display:grid;
-    background-position:cover;
+    background-size:cover;
 }
 hr.new{
     border-top: 10px dotted black;
